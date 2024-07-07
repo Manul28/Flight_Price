@@ -2,8 +2,7 @@
 Flight Price Prediction using Machine Learning
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
-
+ <a href="https://himanshu-03-flight-prediction-system-streamlit-app-fkj7k0.streamlit.app/">Demo Live</a>.
 [![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
 
 [![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
