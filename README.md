@@ -2,7 +2,7 @@
 Flight Price Prediction using Machine Learning
 
 ## Demo
-[![Live Demo](https://himanshu-03-flight-prediction-system-streamlit-app-fkj7k0.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20IPL_Predictor-brightgreen)](https://himanshu-03-flight-prediction-system-streamlit-app-fkj7k0.streamlit.app/)
 
 # Older Version(Local Host using Flask)
 [![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
