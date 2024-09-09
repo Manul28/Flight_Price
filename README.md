@@ -12,7 +12,16 @@ Flight Price Prediction using Machine Learning
 This is a Flask web app which predicts fare of Flight ticket.
 
 ## Motivation
-What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
+1.Real-World Impact: Helps travelers find cheaper flights, solving a common problem.
+2.Complex Data: Involves handling diverse features like dates, seasons, demand, and routes.
+3.Predictive Modeling: Challenges your machine learning skills by using time-series forecasting, regression models, or deep learning.
+4.Dynamic Pricing: Deals with constantly changing airline prices, making prediction harder and more exciting.
+5.Feature Engineering: Requires creativity to extract useful features from data like holidays, weather, and booking times.
+6.Big Data Handling: Provides hands-on experience with large datasets from various airlines and travel platforms.
+7.MLOps Practice: Involves deploying models that adapt to new data in real-time, aligning with your MLOps interests.
+8.User-Focused: Offers a service that benefits a broad audience of frequent travelers.
+9.Competitive Edge: Demonstrates your expertise in predictive analytics and pricing strategies.
+10.Scalability: Can be extended to other domains like hotel prices or car rentals.
 
 ## Installation
 The Code is written in Python 3.6.10. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. 
