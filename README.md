@@ -2,7 +2,7 @@
 Flight Price Prediction using Machine Learning
 
 ## Demo
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Flight_Predictor-darkviolet)](https://flight-ticket-price-predictor.streamlit.app/)
+[![Live Demo](https://himanshu-03-flight-prediction-system-streamlit-app-fkj7k0.streamlit.app/)
 
 # Older Version(Local Host using Flask)
 [![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
@@ -10,7 +10,7 @@ Flight Price Prediction using Machine Learning
 [![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
 
 # New Version(Deployed on StreamLit)
-![image](https://github.com/Rika290/Flight-Price-Prediction/assets/126352441/12fc9d26-ff44-442f-8e37-3ef697bea972)
+![image](https://github.com/user-attachments/assets/67538c09-8f1f-49b1-8c98-3b03aae62dc6)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket on the bases of place of destination.
