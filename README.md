@@ -2,7 +2,7 @@
 Flight Price Prediction using Machine Learning
 
 ## Demo
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Flight_Predictor-darkviolet)](https://himanshu-03-flight-prediction-system-streamlit-app-fkj7k0.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Flight_Predictor-darkviolet)](https://flight-ticket-price-predictor.streamlit.app/)
 
 [![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
 
